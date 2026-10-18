@@ -1,0 +1,6 @@
+@GitHUb_HostAddress = http://localhost:5273
+
+GET {{GitHUb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
